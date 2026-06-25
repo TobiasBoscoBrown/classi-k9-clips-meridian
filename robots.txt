@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://classi-k9-clips-meridian.vercel.app/sitemap.xml
